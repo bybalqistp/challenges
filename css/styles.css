@@ -1,0 +1,60 @@
+@media screen and (max-width: 375px) {
+    body {
+      width: 100%; /* for mobile = The width is 100%, when the viewport is 375px or smaller */
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    body {
+      width: 100%; /* for desktop = The width is 100%, when the viewport is 1440px or smaller */
+    }
+}
+
+body {
+    background-color: #fdebeb;
+    color: #2c7dfa;
+    width: 1440px;
+    height: 800px;
+    font-family: 'Truculenta', sans-serif;
+    line-height: 25px;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    color: #2c7dfa;
+    margin: 0 auto;
+    padding: 40px 40px 10px;
+}
+
+p {
+    color: #fdebeb;
+    font-size: 15px;
+    font-weight: lighter;
+    margin: 0 auto;
+    padding: 10px 40px;  
+}
+
+.box {
+    background-color: #fdb8b8;
+    border-radius: 20px;
+    color: #FFD4D4;
+    width: 300px;
+    height: 500px;
+    margin: auto;
+    position: relative;
+    top: 150px;
+}
+
+.qr {
+    border-radius: 10px;
+    width: 270px;
+    position: relative;
+    top: 15px;
+    
+    
+}
+
+.attribution {
+    ;
+}
