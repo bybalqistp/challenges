@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Do you meet your expectation?](#do-you-meet-your-expectation)
   - [Links](#links)
 - [My process](#my-process)
   - [What I learned](#what-i-learned)
@@ -14,9 +14,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
+### Do you meet your expectation?
 
-![](./screenshot.jpg)
+![](images/Screenshot.png)
 
 ### Links
 
